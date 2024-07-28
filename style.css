@@ -322,3 +322,9 @@ footer .questions {
     flex-direction: column;
     gap: 23px;
 }
+@media (orientation: portrait){
+    .main input {
+        padding: 7px 70px 8px 0px;
+        text-align: center;
+    }
+}
